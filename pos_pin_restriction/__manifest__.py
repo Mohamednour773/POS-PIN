@@ -5,6 +5,10 @@
     'summary': 'Restrict POS Dashboard access using Employee PIN',
     'description': 'Restrict POS Dashboard access using Employee PIN with a secure PIN entry screen.',
     'author': 'Antigravity',
+    'images': [
+        'static/description/thumbnail.png',
+        'static/description/banner.png',
+    ],
     'depends': ['point_of_sale', 'hr', 'pos_hr'],
     'data': [
         'views/actions.xml',
