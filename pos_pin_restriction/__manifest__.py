@@ -5,6 +5,8 @@
     'summary': 'Restrict POS Dashboard access using Employee PIN',
     'description': 'Restrict POS Dashboard access using Employee PIN with a secure PIN entry screen.',
     'author': 'Mohamed Nour',
+    'price': 10.0,
+    'currency': 'USD',
     'images': [
         'static/description/thumbnail.png',
         'static/description/banner.png',
