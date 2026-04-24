@@ -20,7 +20,7 @@
             'pos_pin_restriction/static/src/xml/pin_screen.xml',
         ],
     },
-    'license': 'LGPL-3',
+    'license': 'OPL-1',
     'installable': True,
     'application': False,
 }
